@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amos1155
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning Excel for data analysis 
+- 👀 I’m interested in Cyber Security 
+- 🌱 I’m currently a SOC analyst 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me +2347051045048
 - 😄 Pronouns: He
